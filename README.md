@@ -14,3 +14,4 @@ Here I would like to welcome all for my tech articles.
 
 
 ## Other 
+[![Hangfire](https://badge.fury.io/nu/Abp.svg)](https://badge.fury.io/nu/Abp)
